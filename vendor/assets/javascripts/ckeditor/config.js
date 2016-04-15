@@ -6,7 +6,7 @@
 CKEDITOR.editorConfig = function( config )
 {
     config.resize_dir = 'vertical';
-    config.skin = 'kama,/vendor/assets/javascripts/ckeditor/skins/kama';
+    config.skin = 'kama';
     config.toolbar =
         [
             { name: 'document', items : [ 'Source','-' ] },
